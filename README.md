@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HunterProg
 - 👀 I’m interested in Gaming and Reading
-- 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m most proficient in C++ and Java
+- 💞️ I’m looking to collaborate on Game Development and other projects
 - 📫 How to reach me ...
 
 <!---
